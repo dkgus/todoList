@@ -1,5 +1,7 @@
 [user]
-	email = dkgs12dkgus@naver.com
-	name = dkgus12dkgus
+	email = new@mail.com
+	name = dkgus
 [core]
 	autocrlf = true
+	autocrlf = true
+	editor = code
